@@ -1,0 +1,11 @@
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\bin\Debug\netcoreapp3.1\BridgeMethod.exe
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\bin\Debug\netcoreapp3.1\BridgeMethod.deps.json
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\bin\Debug\netcoreapp3.1\BridgeMethod.runtimeconfig.json
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\bin\Debug\netcoreapp3.1\BridgeMethod.runtimeconfig.dev.json
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\bin\Debug\netcoreapp3.1\BridgeMethod.dll
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\bin\Debug\netcoreapp3.1\BridgeMethod.pdb
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\obj\Debug\netcoreapp3.1\BridgeMethod.csprojAssemblyReference.cache
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\obj\Debug\netcoreapp3.1\BridgeMethod.AssemblyInfoInputs.cache
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\obj\Debug\netcoreapp3.1\BridgeMethod.AssemblyInfo.cs
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\obj\Debug\netcoreapp3.1\BridgeMethod.dll
+C:\ПРОГА\Прога.C#\BridgeMethod\BridgeMethod\obj\Debug\netcoreapp3.1\BridgeMethod.pdb
