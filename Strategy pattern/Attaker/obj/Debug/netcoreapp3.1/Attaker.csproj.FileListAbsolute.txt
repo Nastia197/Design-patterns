@@ -1,0 +1,11 @@
+C:\ПРОГА\Прога.C#\Attaker\Attaker\bin\Debug\netcoreapp3.1\Attaker.exe
+C:\ПРОГА\Прога.C#\Attaker\Attaker\bin\Debug\netcoreapp3.1\Attaker.deps.json
+C:\ПРОГА\Прога.C#\Attaker\Attaker\bin\Debug\netcoreapp3.1\Attaker.runtimeconfig.json
+C:\ПРОГА\Прога.C#\Attaker\Attaker\bin\Debug\netcoreapp3.1\Attaker.runtimeconfig.dev.json
+C:\ПРОГА\Прога.C#\Attaker\Attaker\bin\Debug\netcoreapp3.1\Attaker.dll
+C:\ПРОГА\Прога.C#\Attaker\Attaker\bin\Debug\netcoreapp3.1\Attaker.pdb
+C:\ПРОГА\Прога.C#\Attaker\Attaker\obj\Debug\netcoreapp3.1\Attaker.csprojAssemblyReference.cache
+C:\ПРОГА\Прога.C#\Attaker\Attaker\obj\Debug\netcoreapp3.1\Attaker.AssemblyInfoInputs.cache
+C:\ПРОГА\Прога.C#\Attaker\Attaker\obj\Debug\netcoreapp3.1\Attaker.AssemblyInfo.cs
+C:\ПРОГА\Прога.C#\Attaker\Attaker\obj\Debug\netcoreapp3.1\Attaker.dll
+C:\ПРОГА\Прога.C#\Attaker\Attaker\obj\Debug\netcoreapp3.1\Attaker.pdb
