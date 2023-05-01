@@ -1,0 +1,11 @@
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\bin\Debug\netcoreapp3.1\ClothesFactoryApp.exe
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\bin\Debug\netcoreapp3.1\ClothesFactoryApp.deps.json
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\bin\Debug\netcoreapp3.1\ClothesFactoryApp.runtimeconfig.json
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\bin\Debug\netcoreapp3.1\ClothesFactoryApp.runtimeconfig.dev.json
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\bin\Debug\netcoreapp3.1\ClothesFactoryApp.dll
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\bin\Debug\netcoreapp3.1\ClothesFactoryApp.pdb
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\obj\Debug\netcoreapp3.1\ClothesFactoryApp.csprojAssemblyReference.cache
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\obj\Debug\netcoreapp3.1\ClothesFactoryApp.AssemblyInfoInputs.cache
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\obj\Debug\netcoreapp3.1\ClothesFactoryApp.AssemblyInfo.cs
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\obj\Debug\netcoreapp3.1\ClothesFactoryApp.dll
+C:\ПРОГА\Прога.C#\ClothesFactoryApp\ClothesFactoryApp\obj\Debug\netcoreapp3.1\ClothesFactoryApp.pdb
